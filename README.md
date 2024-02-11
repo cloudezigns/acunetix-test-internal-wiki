@@ -1,4 +1,2 @@
-# .github-workflows-
-# acunetix-test
-# acunetix-test
+# .github-workflows
 # acunetix-test-internal-wiki
